@@ -9,10 +9,6 @@ color: blueviolet;
 }  
 
 .img {
-    width: 10%;
-    height: auto;
-    background-image: url("media/olafeatery.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    border: 2px solid black;
+    width: 200px;
+    height: 200px;
 }   
